@@ -7,4 +7,4 @@ Request.go提供针对http.request的一些封装 使得使用更为简便 并�
 
 具体函数和用法 参照gowalk
 
-[How to use](https://gowalker.org/jesusslim/epackage)
+[How to use](https://gowalker.org/github.com/jesusslim/epackage)
